@@ -11,7 +11,7 @@
       </div>
     </header>
     <router-view />
-    <footer class="footer">This is footer</footer>
+    <footer class="footer"><p>© All rights reserved by UD.</p></footer>
   </div>
 </template>
 
